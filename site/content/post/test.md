@@ -7,4 +7,5 @@ image: /dist/Abstract Shapes.jpg
 
 test
 
-![undefined](/dist/Blue Pond.jpg)
+![null](/dist/Blue Pond.jpg)
+
