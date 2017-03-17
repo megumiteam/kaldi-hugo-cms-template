@@ -1,8 +1,10 @@
 ---
-title: test
-date: 2017-03-17T08:02:37.411Z
-description: test
-image: null
+title: TEST
+date: 2017-03-17T07:57:26.979Z
+description: TET
+image: /dist/Abstract Shapes.jpg
 ---
 
 test
+
+![undefined](/dist/Blue Pond.jpg)
